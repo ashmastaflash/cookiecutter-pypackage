@@ -1,2 +1,2 @@
-FROM ubuntu:18.o4
+FROM ubuntu:18.04
 MAINTAINER @ashmastaflash
